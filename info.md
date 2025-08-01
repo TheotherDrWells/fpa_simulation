@@ -24,7 +24,7 @@ This simulation will:
 
 ---
 
-### 🛠 **Step-by-Step Simulation Plan**
+###  **Step-by-Step Simulation Plan**
 
 #### 1. **Generate Response Matrix X**
 
